@@ -2,6 +2,8 @@ echo "# test" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git branch -M main
+git test
 git remote add origin https://github.com/yuexi2022/test.git
 git push -u origin main
+git xiyue
+test wanwan
